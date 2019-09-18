@@ -1,0 +1,2 @@
+# idea-config
+Idea config
